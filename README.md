@@ -1,2 +1,2 @@
-# Nanuka-Mik-Skillwill-homework
+# repo-one
 This is my first repo
