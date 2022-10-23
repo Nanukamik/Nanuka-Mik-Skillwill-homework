@@ -1,0 +1,14 @@
+body {
+    background-color: floralwhite;
+}
+h1{text-align: center;
+    color:coral
+}
+.Information {
+text-align: left;
+font-size: medium;
+background-color: pink;
+font-style: oblique;
+}
+img {width: 30%;
+height: 40%;}
